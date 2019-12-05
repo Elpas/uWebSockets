@@ -1,3 +1,5 @@
 [submodule "uSockets"]
 	path = uSockets
 	url = https://github.com/Elpas/uSockets.git
+	branch = master
+	update = rebase
